@@ -12,7 +12,7 @@ var About = (props) => {
   return (
     <div>
       <h1 className="text-center page-title">About</h1>
-      <p>Welcome to my React Weather Application. This app is from the complete react web app develeoper udemy course and it's been great! ;D</p>
+      <p>Welcome to Glendale Acosta's React Weather Application. This application simply calls the weather in just about any location. </p>
       <p>Here are some of the tools I used:</p>
       <ul>
         <li>
